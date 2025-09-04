@@ -1,0 +1,102 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Página-1" id="-rc1nI7whZKsJZLpJ8G_">
+    <mxGraphModel dx="957" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i0792ImaZF-EhAaZN4xw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="i0792ImaZF-EhAaZN4xw-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="240" as="targetPoint" />
+            <mxPoint x="90.88" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-1" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/HTC_smartphone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cliente faz a requisição da compra do ingresso informando a sessão e a cadeira que deseja.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=wire;dashed=1;" edge="1" parent="1" source="i0792ImaZF-EhAaZN4xw-6" target="i0792ImaZF-EhAaZN4xw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="306.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="260" width="78.25" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="520" as="targetPoint" />
+            <mxPoint x="80" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-7" value="EC2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50.879999999999995" y="348" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i0792ImaZF-EhAaZN4xw-9" target="i0792ImaZF-EhAaZN4xw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="306.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.volume;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="265" width="70" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-10" value="EBS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="346.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="390" as="targetPoint" />
+            <mxPoint x="529" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="629" y="330" />
+              <mxPoint x="629" y="463" />
+              <mxPoint x="70" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="266" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-13" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Confere os dados do cliente, informações de pagamento e dados da sessão.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="124" y="266.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-14" value="&lt;p data-end=&quot;719&quot; data-start=&quot;698&quot;&gt;&lt;span data-end=&quot;717&quot; data-start=&quot;698&quot;&gt;DynamoDB&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="346.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-18" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Após a conferência dos dados, o sistema gera a Nota Fiscal e o ingresso, mandando as informações para o cliente e armazenando no S3.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i0792ImaZF-EhAaZN4xw-19" target="i0792ImaZF-EhAaZN4xw-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="43.5" y="530" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-21" value="S3&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="623" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-22" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glacier;" vertex="1" parent="1">
+          <mxGeometry x="560" y="526" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Após 90 dias&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90.2" y="260" as="sourcePoint" />
+            <mxPoint x="90.03999999999992" y="169.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0792ImaZF-EhAaZN4xw-27" value="S3 Glacier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="569" y="604" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
