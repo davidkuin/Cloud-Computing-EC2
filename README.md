@@ -37,7 +37,7 @@ Este projeto apresenta conceitos fundamentais de **Computação em Nuvem com AWS
 
 ## 📊 Fluxo: Compra de Ingresso de Cinema com Computação em Nuvem AWS
 
-  ![Fluxograma da compra de ingresso](https://github.com/davidkuin/Cloud-Computing-EC2/blob/3dbc71a6de102e3e5869f1e30d9a31c3d9def247/aws1.drawio.png).
+  ![Fluxograma da compra de ingresso](https://github.com/davidkuin/Cloud-Computing-EC2/blob/e7dc35619db49d8528838614b24bcec46541c042/bc3.png).
 
 ---
 
