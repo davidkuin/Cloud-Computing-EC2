@@ -36,7 +36,8 @@ Este projeto apresenta conceitos fundamentais de **Computação em Nuvem com AWS
 ---
 
 ## 📊 Fluxo: Compra de Ingresso de Cinema com Computação em Nuvem AWS
-  
+
+  ![Fluxograma da compra de ingresso](./ingresso-de-cinema.png).
 
 ---
 
